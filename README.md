@@ -3,6 +3,7 @@
 This repository provides a comprehensive set of hands-on projects and guides that demonstrate Prompt Engineering Best Practices for Instruction-Tuned Large Language Models (LLMs). These projects are designed for researchers, developers, and AI practitioners who want to understand and apply prompt engineering techniques to build robust, intelligent NLP systems.
 
 Each module focuses on a specific application or strategy, using real-world scenarios to illustrate how carefully crafted prompts can improve model performance, reasoning, and reliability.
+![propmt engineering](https://github.com/user-attachments/assets/57d4b9e5-6ad5-4c37-b886-c0818a5b0a21)
 
 🔹 1. Prompt Engineering Best Practices for Instruction-Tuned LLMs
 This module provides an introduction to prompt engineering principles, focusing on models trained with instructions (e.g., T5, FLAN-T5, GPT-4, Mistral-Instruct). It covers techniques such as prompt clarity, task specificity, and the importance of format and tone.
